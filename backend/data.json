@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "username": "Harshi",
+      "password": "2001"
+    }
+  ],
+  "habits": [
+    {
+      "id": 1760663397923,
+      "name": "Drink Water",
+      "done": false
+    },
+    {
+      "id": 1760663403779,
+      "name": "Walk",
+      "done": true
+    },
+    {
+      "id": 1760663409061,
+      "name": "Reading",
+      "done": false
+    },
+    {
+      "id": 1760663414726,
+      "name": "Exercise",
+      "done": false
+    },
+    {
+      "id": 1760664009995,
+      "username": "Harshi",
+      "name": "Walk",
+      "done": false
+    },
+    {
+      "id": 1760664024682,
+      "username": "Harshi",
+      "name": "Drink Water",
+      "done": true
+    },
+    {
+      "id": 1760664030617,
+      "username": "Harshi",
+      "name": "Read",
+      "done": false
+    },
+    {
+      "id": 1760664040290,
+      "username": "Harshi",
+      "name": "Exercise",
+      "done": false
+    }
+  ]
+}

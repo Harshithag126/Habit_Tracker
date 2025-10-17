@@ -1,25 +1,44 @@
-# 🌿 Habit Tracker App
+ 
 
-This is a simple full-stack web application that helps users track their daily habits.  
-It has a **React frontend** and a **Node.js + Express backend**.
+ # 🪴 Habit Tracker Application
+ 
+
+## 📘 Project Overview
+This **Habit Tracker** is a full-stack web application designed to help users build and maintain healthy habits.  
+It allows users to:
+- Add new habits they want to track.
+- Mark habits as **done/undone** for the day.
+- Delete habits that are no longer needed.
+- Create their own **accounts** with username and password (login/signup system).
+
+The app consists of:
+- **Frontend:** React + Vite + TailwindCSS  
+- **Backend:** Node.js + Express.js  
+- **Storage:** JSON-based data file (can be replaced with a database later)
 
 ---
 
 ## 🧠 Features
-- Add new habits
-- Mark habits as done / undo
-- Delete habits
-- Simple login & signup
-- Data saved locally in a JSON file
+✅ User Authentication (Login & Signup)  
+✅ Add, View, Delete Habits  
+✅ Track Completion Progress  
+✅ Simple, Pleasant UI with TailwindCSS  
+✅ Fully Functional REST API (GET, POST, PUT, DELETE)
 
 ---
 
-## 🛠️ Technologies Used
-- **Frontend:** React + Vite + TailwindCSS
-- **Backend:** Node.js + Express
-- **Storage:** JSON file (data.json)
+🎨 Technologies Used
 
----
+Frontend: React.js, Vite, TailwindCSS
+
+Backend: Node.js, Express.js
+
+Storage: Local JSON file (data.json)
+
+Tools: Git, VS Code
+
+ 
+
 
 ## ⚙️ How to Run the Project
 
@@ -55,3 +74,18 @@ Add your daily habits
 Click on a habit to mark it as done or undone
 
 Delete habits you no longer need
+
+
+📚 Citations & References
+
+React Documentation – https://react.dev/
+
+Node.js Docs – https://nodejs.org/en/docs
+
+Express.js Docs – https://expressjs.com/
+
+TailwindCSS Docs – https://tailwindcss.com/docs
+
+Vite Official Guide – https://vite.dev/guide/
+
+OpenAI ChatGPT (2025) – Assistance for debugging and project documentation

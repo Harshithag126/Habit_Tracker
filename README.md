@@ -37,7 +37,7 @@ Storage: Local JSON file (data.json)
 
 Tools: Git, VS Code
 
- 
+--- 
 
 
 ## ⚙️ How to Run the Project
@@ -60,9 +60,10 @@ npm install
 
 npm run dev
 
-
 {Frontend will start at: http://localhost:5173}
 
+
+---
 💡 How to Use
 
 Open the app in your browser
@@ -75,6 +76,7 @@ Click on a habit to mark it as done or undone
 
 Delete habits you no longer need
 
+---
 
 📚 Citations & References
 

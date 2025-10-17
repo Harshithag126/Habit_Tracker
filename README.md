@@ -26,7 +26,9 @@ It has a **React frontend** and a **Node.js + Express backend**.
 ### Run the Backend
  
 cd backend
+
 node server.js
+
 {Backend will start at: http://localhost:5000}
 
 ### Run the Frontend
@@ -34,7 +36,9 @@ node server.js
 Open a new terminal:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 
